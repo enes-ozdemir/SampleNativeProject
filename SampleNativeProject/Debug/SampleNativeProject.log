@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Sample.cpp
+C:\Users\e84241847\source\repos\SampleNativeProject\SampleNativeProject\Sample.cpp(6,23): warning C4273: 'getRandomNumber': inconsistent dll linkage
+C:\Users\e84241847\source\repos\SampleNativeProject\SampleNativeProject\Sample.h(8,27): message : see previous definition of 'getRandomNumber'
+C:\Users\e84241847\source\repos\SampleNativeProject\SampleNativeProject\Sample.cpp(9,18): warning C4273: 'displaySum': inconsistent dll linkage
+C:\Users\e84241847\source\repos\SampleNativeProject\SampleNativeProject\Sample.h(9,27): message : see previous definition of 'displaySum'
+C:\Users\e84241847\source\repos\SampleNativeProject\SampleNativeProject\Sample.cpp(15,30): warning C4273: 'sumNumbers': inconsistent dll linkage
+C:\Users\e84241847\source\repos\SampleNativeProject\SampleNativeProject\Sample.h(10,27): message : see previous definition of 'sumNumbers'
+  Generating Code...
+     Creating library C:\Users\e84241847\source\repos\SampleNativeProject\Debug\SampleNativeProject.lib and object C:\Users\e84241847\source\repos\SampleNativeProject\Debug\SampleNativeProject.exp
+  SampleNativeProject.vcxproj -> C:\Users\e84241847\source\repos\SampleNativeProject\Debug\SampleNativeProject.dll

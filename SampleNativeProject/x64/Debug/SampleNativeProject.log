@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Sample.cpp
+C:\Users\e84241847\source\repos\SampleNativeProject\SampleNativeProject\Sample.cpp(9,23): warning C4273: 'getRandomNumber': inconsistent dll linkage
+C:\Users\e84241847\source\repos\SampleNativeProject\SampleNativeProject\Sample.h(8,27): message : see previous definition of 'getRandomNumber'
+C:\Users\e84241847\source\repos\SampleNativeProject\SampleNativeProject\Sample.cpp(12,30): warning C4273: 'sumNumbers': inconsistent dll linkage
+C:\Users\e84241847\source\repos\SampleNativeProject\SampleNativeProject\Sample.h(10,27): message : see previous definition of 'sumNumbers'
+C:\Users\e84241847\source\repos\SampleNativeProject\SampleNativeProject\Sample.cpp(17,1): warning C4273: 'getPointer': inconsistent dll linkage
+C:\Users\e84241847\source\repos\SampleNativeProject\SampleNativeProject\Sample.h(11,28): message : see previous definition of 'getPointer'
+C:\Users\e84241847\source\repos\SampleNativeProject\SampleNativeProject\Sample.cpp(22,1): warning C4273: 'FillString': inconsistent dll linkage
+C:\Users\e84241847\source\repos\SampleNativeProject\SampleNativeProject\Sample.h(12,28): message : see previous definition of 'FillString'
+C:\Users\e84241847\source\repos\SampleNativeProject\SampleNativeProject\Sample.cpp(25,18): warning C4273: 'isThisCpp': inconsistent dll linkage
+C:\Users\e84241847\source\repos\SampleNativeProject\SampleNativeProject\Sample.h(9,28): message : see previous definition of 'isThisCpp'
+  Generating Code...
+C:\Users\e84241847\source\repos\SampleNativeProject\SampleNativeProject\Sample.cpp(19): warning C4172: returning address of local variable or temporary: a
+     Creating library C:\Users\e84241847\source\repos\SampleNativeProject\x64\Debug\SampleNativeProject.lib and object C:\Users\e84241847\source\repos\SampleNativeProject\x64\Debug\SampleNativeProject.exp
+  SampleNativeProject.vcxproj -> C:\Users\e84241847\source\repos\SampleNativeProject\x64\Debug\SampleNativeProject.dll
